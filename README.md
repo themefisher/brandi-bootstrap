@@ -33,3 +33,36 @@ And if you want FREE HTML5 Templates then please visit our listing content <a hr
 Visit Our Website For More Amazing Works
 <a href="https://themefisher.com">Website</a>
 
+<b>If you want to learn raw coding & build the same design, this additional resources can help you out:<b>
+ 
+ W3c https://www.w3.org/TR/
+
+Templates for free：
+
+http://templated.co/2
+http://bootstrapzero.com/
+http://startbootstrap.com/
+http://www.freshdesignweb.com/free-bootstrap-templates.html
+http://speckyboy.com/2014/05/27/free-bootstrap-3-templates/
+http://bootswatch.com/
+http://www.prepbootstrap.com/
+http://lovebootstrap.com/bootstrap-themes/free
+http://www.codexcoder.com/html/40-free-html5-templates-responsive-download-2014/
+http://designscrazed.org/free-responsive-html5-css3-templates/
+http://www.zerotheme.com/
+http://w3layouts.com/free-responsive-html5-css3-website-templates/
+http://shapebootstrap.net/
+http://webdesignbeat.com/25-responsive-twitter-bootstrap-landing-page-templates/
+http://www.themefounders.com/twitter-bootstrap-wordpress-themes/
+====
+
+Picture for free：
+
+http://free.com.tw/15-find-free-images/
+http://www.flaticon.com/
+https://www.iconfinder.com/free_icons
+https://unsplash.com/
+http://photopin.com/
+http://www.gettyimages.com/
+
+
