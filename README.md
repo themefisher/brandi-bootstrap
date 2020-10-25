@@ -13,6 +13,8 @@ PSD credit: https://dribbble.com/themecurve
 A fully functional demo is available at <a href="http://demo.themefisher.com/demos/?theme=brandi">Demo</a>
 You can visit our website to download this theme <a href="https://themefisher.com/products/brandi-responsive-one-page-bootstrap-business-template/">Download Now</a>
  
+ 
+ by- themefisher
 
 
 ## Bugs Reports
